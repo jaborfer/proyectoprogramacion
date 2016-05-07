@@ -1,0 +1,8 @@
+NOMBRE                   	DIRECCION                     	TELEFONO  	CONTACTO            
+----------------------------------------------------------------------------------------
+CHINO ALGAR              	EL ALGAR                      	0         	DEPENDIENTE         
+CHINO UNION              	LA UNION                      	0         	MI AMIGA            
+EBAY                     	INTERNET                      	0         	INTERNET            
+EL SUERTE                	POLIGONO INDUSTRIAL           	0         	DEPENDIENTE         
+PRUEBA                   	CASTELLANA                    	123456789 	YO                  
+TEJIDOS SANTANA          	EL CENIT                      	0         	DEPENDIENTE         

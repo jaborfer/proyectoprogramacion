@@ -1,0 +1,29 @@
+Hecho 1) en Proveedores cuadno se da a modificar no se encienden los
+cuadrados para editar. (hay que darle antes a buscar)
+
+hecho 2) en proveedores no funciona borrar
+
+Hecho 3) clientes se queda el letrero de los digitos del telefono
+
+Hecho 4)en clientes cuadno se da a modificar no se encienden los
+cuadrados para editar. (hay que darle antes a buscar)
+
+hecho 5) en clientes el boton nuevo, borra los campos?
+
+hecho 6) en telas los cm2 salen muy lejos
+
+7)¿¿ cuando se elije una clase de material sacar el listado?
+
+hecho 8) el mensaje del boton buscar debe decir elija un material y pulse
+mostrar
+
+hecho 9) con fieltro no salen unidades
+
+Hecuo 10 da error el grososr
+
+Hecho 11 ¿al meter los materiaes de componentes cerrar ventana al guardar
+
+hecho EXTRA: sacar las utilidades a otra clase
+----------------------
+hecho comprobar que no exista un proveedor antes de guardar
+hecho comprobar borrar proveedores
